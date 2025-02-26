@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valconnect/static/css/main.136e506c.css",
+    "main.js": "/valconnect/static/js/main.d42e63fd.js",
+    "index.html": "/valconnect/index.html",
+    "main.136e506c.css.map": "/valconnect/static/css/main.136e506c.css.map",
+    "main.d42e63fd.js.map": "/valconnect/static/js/main.d42e63fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136e506c.css",
+    "static/js/main.d42e63fd.js"
+  ]
+}
