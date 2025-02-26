@@ -1,0 +1,5 @@
+email
+spacy
+sentence-transformers
+pinecone-client
+flask
