@@ -2,7 +2,7 @@
   "name": "task-management-system",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://val-connect.github.io/valconnect",
+  "homepage": "/valconnect",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
