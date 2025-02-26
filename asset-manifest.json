@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/valconnect/static/css/main.136e506c.css",
-    "main.js": "/valconnect/static/js/main.be4d498a.js",
-    "index.html": "/valconnect/index.html",
-    "main.136e506c.css.map": "/valconnect/static/css/main.136e506c.css.map",
-    "main.be4d498a.js.map": "/valconnect/static/js/main.be4d498a.js.map"
+    "main.css": "./static/css/main.136e506c.css",
+    "main.js": "./static/js/main.da7de100.js",
+    "index.html": "./index.html",
+    "main.136e506c.css.map": "./static/css/main.136e506c.css.map",
+    "main.da7de100.js.map": "./static/js/main.da7de100.js.map"
   },
   "entrypoints": [
     "static/css/main.136e506c.css",
-    "static/js/main.be4d498a.js"
+    "static/js/main.da7de100.js"
   ]
 }
